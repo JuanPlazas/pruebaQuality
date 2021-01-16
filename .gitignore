@@ -1,0 +1,17 @@
+# dependency directories
+node_modules/
+
+# logs and dependency locks
+package-lock.json
+yarn.lock
+npm-debug.log
+yarn-error.log
+
+# compile
+dist/
+
+# coverage
+coverage/
+
+# files MAC
+*.DS_Store
